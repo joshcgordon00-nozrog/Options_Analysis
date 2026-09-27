@@ -1,0 +1,15 @@
+pandas
+TA-lib
+matplotlib
+pyfinance
+yfinance
+numpy
+notebook
+bs4
+requests
+scipy
+alpaca-py
+python-dotenv
+
+pyside6
+pandasGUI

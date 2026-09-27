@@ -1,0 +1,5 @@
+pandas
+matplotlib
+pyfinance
+numpy
+notebook
